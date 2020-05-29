@@ -1,2 +1,1 @@
-# This is a picture of a blue Yaktocat
 ![Image of a blue Yaktocat with a fire crown, set with rubies](https://octodex.github.com/images/yaktocat.png)
